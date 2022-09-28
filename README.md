@@ -1,0 +1,2 @@
+# MedEasy
+Our web application is a one stop online medical platform that aims to make the process of delivering pharmaceutical products quick and smooth. MedEasy will provide customers with on demand, home delivered access to a wide range of prescription and other consumer healthcare products. Our customer base include people who want home delivery access to medicines as well as virtual doctor appointments.
